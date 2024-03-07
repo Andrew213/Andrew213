@@ -23,7 +23,7 @@
   </a>
 </div>
 
-<p align="center"><img src="https://media.giphy.com/media/Wpy9lrAfHCLp4mIT9L/giphy.gif" width="1100" height="500"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/Wpy9lrAfHCLp4mIT9L/giphy.gif" width="600" height="300"  /></p>
 
 <h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFqaGZ2aDZycHQ3Y2c2b3FqcThuYXptOXRubXU1OXRuM25vcjlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cehDi6v3v1ObYQ9SGL/giphy.gif" width="100">  ОБО МНЕ: </h3>
 
