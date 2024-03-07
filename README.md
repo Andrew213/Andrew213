@@ -1,5 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk0MGhsb2Zpb2JtanBncXYzbzhzZnlqeWszejgxNDdoYTd3dWF6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3jDew4XTWznvUGvbX/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk0MGhsb2Zpb2JtanBncXYzbzhzZnlqeWszejgxNDdoYTd3dWF6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3jDew4XTWznvUGvbX/giphy.gif" width="300"/>
+</div>
+<div id="badges">
+  <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </div>
 <!--
 **Andrew213/Andrew213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
