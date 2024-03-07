@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk0MGhsb2Zpb2JtanBncXYzbzhzZnlqeWszejgxNDdoYTd3dWF6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3jDew4XTWznvUGvbX/giphy.gif" width="500"/>
+</div>
 <!--
 **Andrew213/Andrew213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
